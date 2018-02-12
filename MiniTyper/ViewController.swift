@@ -11,8 +11,9 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var typingText: UITextView!
+    @IBOutlet weak var backgroundImage: UIImageView!
     
-   
+    
     @IBAction func copyText(_ sender: UIButton) {
     }
     
